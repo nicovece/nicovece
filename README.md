@@ -5,8 +5,8 @@ I'm a web developer and digital product designer based in Berlin, with a long ba
 
 My strongest area is product-minded development: understanding user needs, bridging UI/UX and implementation, and turning requirements into usable interfaces and features through clear, accessible, and maintainable code.
 
-Developer portfolio: https://www.nicovece.dev
-Design portfolio: https://nicovece.com
+Developer portfolio: https://www.nicovece.dev   
+Old design portfolio: https://nicovece.com
 
 
 <!--
